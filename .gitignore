@@ -42,3 +42,16 @@ android/app/build/
 
 # Coverage
 coverage/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Environment
+.env
+
+# Logs
+*.log
